@@ -1,0 +1,59 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+#DAY {
+  width: 150px;
+}
+#Months {
+  width: 150px;
+}
+#Year {
+  width: 150px;
+}
+#add1 {
+  width: 500px;
+}
+#city {
+  width: 150px;
+}
+#state {
+  width: 150px;
+}
+#pincode {
+  width: 150px;
+}
+#country {
+  width: 150px;
+}
+#email {
+  width: 500px;
+}
+#button {
+  background-color: aqua;
+  border: 2px solid black;
+  padding: 2px;
+  text-decoration: none;
+  color: black;
+}
+
+body {
+  background: url(images/peakpx.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.overlay {
+  opacity: 1;
+  background-color: #0000008a;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  z-index: 1000;
+}
+h1,
+h4,
+p {
+  color: white;
+}
